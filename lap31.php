@@ -1,6 +1,6 @@
 <?php
 	$x = "Halo Dunia";
-	$y = "Selamat Berbuka Puasa"
+	$y = "Mohon Maaf Lahir Batin"
 	echo $x;
 	echo $y;
 
